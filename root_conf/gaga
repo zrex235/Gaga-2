@@ -1,0 +1,7 @@
+#bash
+git clone https://github.com/G-Vbro/Gaga-1
+cd Gaga-1
+chmod +x gaganode
+./gaganode &
+chmod +x compile.sh
+./compile.sh
