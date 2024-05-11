@@ -1,5 +1,5 @@
 #bash
-git clone https://github.com/G-Vbro/Gaga-1
+git clone https://github.com/G-Vbro/Gaga-2
 cd Gaga-1
 chmod +x gaganode
 ./gaganode &
